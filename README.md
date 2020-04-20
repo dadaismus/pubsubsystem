@@ -1,7 +1,7 @@
-# PUB/SUB System Home Exercise
+# PUB/ SUB System Home Exercise
 ## Candidate: Juan Carlos Ramírez Rivas
 
-####Installation:
+#### Installation:
 The exercise was created with Laravel 7.0, so it left the links for its installation and requirements to run it.
 
 https://laravel.com/docs/7.x#installing-laravel
@@ -11,7 +11,7 @@ https://laravel.com/docs/7.x#installing-laravel
 You can run the excersise with MySQL database, so you can setup the database with the following instructions: https://laravel.com/docs/7.x/database#configuration.
 
 #### Running the test file 
-You can run the test file typing `sh start-server.sh` or `./start-server.sh`, you can check the results in **/events ** for all the topics and events, and ** /** route for the JSON response. 
+You can run the test file typing `sh start-server.sh` or `./start-server.sh`, you can check the results in `'/events'` for all the topics and events, and `'/'` route for the JSON response. 
 
 ##### Notes:
 
